@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Useless Cities</string>
+    <string name="author_name">Useless Cities</string>
+    <string name="biography">Biography</string>
+    <string name="summary">London-based, multi-national indie band Useless Cities offer up a sonic journey powered by reverb soaked guitar lines and alternating male/female vocals.</string>
+    <string name="about_1">London-based, multi-national indie band Useless Cities offer up a sonic journey powered by reverb soaked guitar lines and alternating male/female vocals.</string>
+    <string name="about_2">Since arriving fully formed in 2016, Useless Cities have been busy playing a string of live shows around London (including recent headline gig at The Finsbury) and nationally, including gigs in Brighton, Newcastle and Scotland, building a fanbase for their unique take on nineties and noughties-influenced shoegaze-rock.</string>
+    <string name="about_3">After two EP releases so far, they have also picked up radio acclaim from BBC 6Music’s Fresh Faves &amp; Amazing Radio, plus rave press coverage with XS Noize, Soundchip, She Makes Music, Vents Magazine and many more. Latest single ‘Eyesore’ (produced by Paul Tipler of Idlewild/Slowdive/Elastica fame) premiered on GigSlutz. 2018 will see a further two singles (produced by Paul Tipler) released in the Spring, along with a narrative video directed by Deborah Espect. Latest Single ‘Couldn’t Ask For More’ was released on 23/03/2018. </string>
+    <string name="contacts">CONTACTS:</string>
+    <string name="button_music">MUSIC</string>
+    <string name="button_website">WEBSITE</string>
+    <string name="button_getintouch">GET IN TOUCH</string>
+    <string name="copyright">Developed by Patrik Krizek. All rights reserved.</string>
+    <string name="version">version 2.0</string>
+</resources>
